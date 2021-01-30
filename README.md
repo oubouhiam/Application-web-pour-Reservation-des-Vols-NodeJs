@@ -41,7 +41,7 @@ La société SafiAir souhaite créer une application web qui va permettre la ré
 ## Prérequis (technologies utilisées)
 
 Node.js
-HTML5/CSS3
+HTML5/CSS3/SCSS
 JavaScript
 MySQL
 GIT
